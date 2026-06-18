@@ -1,3 +1,4 @@
+import updater
 import json
 import os
 
@@ -32,7 +33,7 @@ key = input("\n🔑 Enter your key: ").strip()
 valid = config.get("valid_keys", {})
 
 if key in valid:
-    print("\n✅ KEY TAMA! WELCOME KA DITO!")
+    print("\n✅ HAHAHSHSPOTA")
     print("🚀 Pumasok ka na sa system!")
     print("\n📋 MENU:")
     print("[1] Start Bomb")
